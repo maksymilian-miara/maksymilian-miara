@@ -15,8 +15,8 @@ Each project I build helps me grow my skills and move one step closer to becomin
 ### 🧰 Tech Stack
 **Frontend:** HTML, CSS, JavaScript, Qwik  
 **Backend:** Python, Django  
-**Databases:** SQLite, PostgreSQL (learning)  
-**Tools:** Git, GitHub, VS Code, Netlify, Vercel  
+**Databases:** SQLite, MySQL (learning)  
+**Tools:** Git, GitHub, VS Code, 
 **Currently learning:** API development, deployment workflows, and component-based UI architecture  
 
 ---
